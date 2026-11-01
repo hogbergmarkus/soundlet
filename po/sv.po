@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Soundlet 0.1.0\n"
+"POT-Creation-Date: 2026-11-01 12:00+0000\n"
+"PO-Revision-Date: 2026-11-01 12:00+0000\n"
+"Last-Translator: Soundlet contributors\n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Audio outputs"
+msgstr "Ljudutgångar"
+
+msgid "Choose two different outputs to enable switching."
+msgstr "Välj två olika utgångar för att kunna växla mellan dem."
+
+msgid "Output A — Speakers"
+msgstr "Utgång A — Högtalare"
+
+msgid "Output B — Headphones"
+msgstr "Utgång B — Hörlurar"
+
+msgid "Not selected"
+msgstr "Inte vald"
+
+#, javascript-format
+msgid "Unavailable — %s"
+msgstr "Inte tillgänglig — %s"
+
+#, javascript-format
+msgid "Switch to %s"
+msgstr "Växla till %s"
+
+msgid "Soundlet — select two available outputs in Preferences"
+msgstr "Soundlet — välj två tillgängliga utgångar i inställningarna"

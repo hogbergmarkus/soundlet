@@ -1,0 +1,12 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.soundlet" path="/org/gnome/shell/extensions/soundlet/">
+    <key name="output-a" type="(ss)">
+      <default>('', '')</default>
+      <summary>Speaker sink and port names</summary>
+    </key>
+    <key name="output-b" type="(ss)">
+      <default>('', '')</default>
+      <summary>Headphone sink and port names</summary>
+    </key>
+  </schema>
+</schemalist>

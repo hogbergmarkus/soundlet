@@ -1,0 +1,10 @@
+{
+  "uuid": "soundlet@hogbergmarkus.github.io",
+  "name": "Soundlet",
+  "description": "Switch between two audio outputs with one click in the top bar.",
+  "shell-version": ["51"],
+  "version": 1,
+  "version-name": "0.1.0",
+  "gettext-domain": "soundlet",
+  "settings-schema": "org.gnome.shell.extensions.soundlet"
+}
